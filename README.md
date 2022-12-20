@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem Mohamed Nehad.</h1>
-<h3 align="center">A passionate Mobile developer from Alexandria, Egypt. I am currently looking for an Android / Flutter Developeropportunity to gain more professional experience.</h3>
+<h3 align="center">A passionate Mobile developer from Alexandria, Egypt. I am currently looking for an Android / Flutter Developer opportunity to gain more professional experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareem-nehad&label=Profile%20views&color=0e75b6&style=flat" alt="kareem-nehad" /> </p>
 
